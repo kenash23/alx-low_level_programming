@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry Point
+ * main - Prints a random number and states whether it is positive, negative, or zero
  *
  * Return: 0 Success
  */
@@ -13,7 +13,6 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	
 	if (n > 1)
 		printf("%d is positive\n", n);
 	else if (n < 0)
