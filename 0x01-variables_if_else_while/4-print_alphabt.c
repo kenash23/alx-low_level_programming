@@ -7,14 +7,13 @@
  */
 int main(void)
 {
-	int c;
+	char c;
 
-	for (c = 1; c <= 26; ++c)
+	for (c = 'a'; c <= 'z'; ++c)
 	{
-		if (c = 5 || c = 17)
-			break;
-		putchar('a' + c);
-		putchar('\n');
+		if (c !='e' && c != 'q')
+		putchar(c);
 	}
-	Return (0);
+	putchar('\n');
+	return (0);
 }
