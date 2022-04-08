@@ -12,6 +12,6 @@ int main(void)
 	for (i = '0'; i <='9'; ++i)
 		putchar('i');
 	putchar('\n');
-	Return 0;
+	return 0;
 }
 
