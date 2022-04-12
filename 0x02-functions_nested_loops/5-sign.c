@@ -5,8 +5,8 @@
  * @n: The number of which its sign is printed
  *
  * Return: 1 if the number > zero
- * 		0 if the number = zero
- * 		-1 if the number < zer0
+ * 0 if the number = zero
+ * -1 if the number < zer0
  */
 int print_sign(int n)
 {
