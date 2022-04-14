@@ -2,7 +2,7 @@
 /**
  * _isupper - checks upper case
  * @c: print int
- * Returns: 1 or 0
+ * Returns: give 1 or 0
  */
 
 int _isupper(int c)
@@ -16,4 +16,5 @@ int _isupper(int c)
 	{
 		return (0);
 	}
+
 }
