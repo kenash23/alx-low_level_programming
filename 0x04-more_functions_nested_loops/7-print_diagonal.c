@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_diagonal - prints diagonals
- * 2n: limit
+ * @n: limit
  *
  * Return: void
  */
@@ -19,7 +19,7 @@ void print_diagonal(int n)
 				_putchar(' ');
 			}
 			_putchar('\\');
-			-putchar('\n');
+			_putchar('\n');
 		}
 	}
 	else
