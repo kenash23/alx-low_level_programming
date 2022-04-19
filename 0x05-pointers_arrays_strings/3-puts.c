@@ -1,4 +1,5 @@
 #include "main.h"
+#include "_putchar.h"
 /**
  * _puts - prints a sting
  * @str: a pointer to an int that will be changed

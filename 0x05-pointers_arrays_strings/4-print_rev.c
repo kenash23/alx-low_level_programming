@@ -1,5 +1,4 @@
 #include "main.h"
-#include "_putchar.c"
 /**
  * print_rev - prints a sting in a reverse order
  * @s: pointer to an int that will be changed
