@@ -2,7 +2,7 @@
 /**
  * print_rev - prints a sting in a reverse order
  * @s: pointer to an int that will be changed
- * 
+ *
  * Return: void
  */
 void print_rev(char *s)
