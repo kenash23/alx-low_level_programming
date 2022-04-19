@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * _puts2 - prints evry character of a sting
+ * print_array - prints n elements of an array of integers
  * @a: a pointer to an int that will be changed
  * @n: return value n
  * Return: void
