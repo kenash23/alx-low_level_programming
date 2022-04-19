@@ -2,7 +2,7 @@
 /**
  * _puts - prints a sting
  * @str: a pointer to an int that will be changed
- * 
+ *
  * Return: void
  */
 
